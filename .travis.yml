@@ -1,0 +1,5 @@
+language: ruby
+notifications:
+  disabled: true
+rvm:
+  - 2.0.0

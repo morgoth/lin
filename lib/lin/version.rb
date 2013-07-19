@@ -1,0 +1,3 @@
+module Lin
+  VERSION = "0.0.1"
+end
